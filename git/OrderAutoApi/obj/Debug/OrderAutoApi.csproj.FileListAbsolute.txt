@@ -1,0 +1,6 @@
+E:\DMP相关类\AutoApi\OrderAutoApi\OrderAutoApi\bin\Debug\OrderAutoApi.exe.config
+E:\DMP相关类\AutoApi\OrderAutoApi\OrderAutoApi\bin\Debug\OrderAutoApi.exe
+E:\DMP相关类\AutoApi\OrderAutoApi\OrderAutoApi\bin\Debug\OrderAutoApi.pdb
+E:\DMP相关类\AutoApi\OrderAutoApi\OrderAutoApi\obj\Debug\OrderAutoApi.csproj.CoreCompileInputs.cache
+E:\DMP相关类\AutoApi\OrderAutoApi\OrderAutoApi\obj\Debug\OrderAutoApi.exe
+E:\DMP相关类\AutoApi\OrderAutoApi\OrderAutoApi\obj\Debug\OrderAutoApi.pdb
